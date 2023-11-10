@@ -4,15 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - cat
-  - mono
-  - plain
-  - modelObject
-  - Sheep
   - UI
   - CutScene
-  - Farmer
-  - Spawner
   - GameplayParent
   layers:
   - Default
