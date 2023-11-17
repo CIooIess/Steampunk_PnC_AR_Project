@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PillarMat
+  m_Name: CornerPillarMat
   m_Shader: {fileID: -6465566751694194690, guid: 4f8e631aad03b194397942a22f03b3f2,
     type: 3}
   m_ValidKeywords: []
@@ -97,6 +97,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _EnvironmentReflections: 1
+    - _Front_Visibility_Angle: 90
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
